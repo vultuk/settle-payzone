@@ -1,7 +1,7 @@
 {
-  "name": "settle",
+  "name": "@settle/payzone",
   "version": "1.0.0",
-  "description": "Settle is a payment gateway processor that will accept multiple gateways",
+  "description": "Payzone gateway for Settle",
   "main": "lib/index.js",
   "scripts": {
     "build": "rimraf lib && tsc",
