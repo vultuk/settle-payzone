@@ -18,5 +18,8 @@
     "supertest": "^4.0.2",
     "ts-jest": "^24.0.2",
     "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "@settle/base": "^0.0.1"
   }
 }

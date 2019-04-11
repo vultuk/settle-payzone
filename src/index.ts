@@ -1,4 +1,5 @@
-import {GatewayInterface, GatewayOptionsInterface, PaymentDetailsInterface} from "../../settle/lib";
+// import {GatewayInterface, GatewayOptionsInterface, PaymentDetailsInterface} from "../../settle/lib";
+import {GatewayInterface, GatewayOptionsInterface, PaymentDetailsInterface} from "@settle/base";
 
 export class SettlePayzoneGateway implements GatewayInterface {
     protected readonly options: GatewayOptionsInterface = {
